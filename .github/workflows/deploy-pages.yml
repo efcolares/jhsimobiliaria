@@ -36,6 +36,9 @@ jobs:
               s=s.replace("return {", "return {\n    base: '/jhsimobiliaria/',", 1)
           open(p,'w').write(s)
           PY
+      - name: Align Vite build dependency
+        working-directory: app/imobiliaria-main
+        run: npm pkg set devDependencies.esbuild="^0.28.0"
       - name: Install dependencies
         working-directory: app/imobiliaria-main
         run: npm install
