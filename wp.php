@@ -1,0 +1,1 @@
+<? include ("/home/waibrasi/Scripts/clientes/wp.php"); ?>

@@ -1,0 +1,58 @@
+	
+	
+	
+	#nav, #nav ul{
+		width:740px;
+		height:77px;
+		list-style:none;
+		font: 16px Arial, Helvetica, sans-serif;
+		padding: 0;
+		margin: -7px;
+		z-index:auto;
+	
+		
+	}
+	
+	#nav li{
+		
+		float:left;
+		background-image:url(imagens/botoes/off.jpg); background-position:center; background-repeat:no-repeat;
+	}
+	
+	#nav a{
+		display:block;
+		width:185px;
+		height:65px;
+		font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+		font-size:16px;
+		color:#999999;
+		text-align:center;
+		text-decoration:none;
+		line-height:4em;
+		
+	}
+	
+	#nav a:hover{
+		text-decoration:none;
+			color:#ff0000;
+			background-image:url(imagens/botoes/rl.jpg); background-position:center; background-repeat:no-repeat;
+			
+	}
+	
+	#nav li ul {
+		position:absolute;
+		left:-1000em;
+		width:10em;
+		margin:0px;
+		top: 0px;
+		
+	}
+	
+	#nav ul ul{ margin: -2.1em 0 0 8.0em;}
+	
+	#nav li:hover ul ul, #nav li.over ul ul{ left:-1000em;}
+	
+	#nav li:hover ul, #nav li li:hover ul, #nav li.over ul, #nav li li.over ul{
+		left:auto;
+	}	
+	

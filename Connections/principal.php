@@ -1,0 +1,1 @@
+<? include ("/home/waibrasi/Scripts/valedosapucai/Connections/valedosapucai.php"); ?>

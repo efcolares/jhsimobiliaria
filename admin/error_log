@@ -1,0 +1,262 @@
+[17-Apr-2018 16:11:23 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[17-Apr-2018 16:11:24 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[17-Apr-2018 16:11:25 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[17-Apr-2018 16:11:25 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[17-Apr-2018 16:11:26 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[24-Apr-2018 15:33:22 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[24-Apr-2018 15:33:23 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[24-Apr-2018 15:33:23 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[24-Apr-2018 15:33:24 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[24-Apr-2018 15:33:24 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[24-Apr-2018 15:33:24 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[24-Apr-2018 15:33:24 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[24-Apr-2018 15:33:25 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[24-Apr-2018 15:33:25 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[24-Apr-2018 15:33:25 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[24-Apr-2018 15:33:26 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[24-Apr-2018 15:33:26 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[24-Apr-2018 15:33:26 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[24-Apr-2018 15:33:26 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[24-Apr-2018 15:33:27 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[24-Apr-2018 15:33:27 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[24-Apr-2018 15:33:27 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[24-Apr-2018 15:33:28 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[24-Apr-2018 15:33:28 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[24-Apr-2018 15:33:28 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[24-Apr-2018 15:33:28 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[24-Apr-2018 15:33:29 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[24-Apr-2018 15:33:29 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[11-Jun-2018 17:38:24 America/Sao_Paulo] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/waibrasi/Scripts/valedosapucai/Connections/valedosapucai.php:156) in /home/waibrasi/Scripts/valedosapucai/admini_2016.php on line 2
+[11-Jun-2018 17:38:24 America/Sao_Paulo] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/waibrasi/Scripts/valedosapucai/Connections/valedosapucai.php:156) in /home/waibrasi/Scripts/valedosapucai/admini_2016.php on line 2
+[25-Jun-2018 16:04:37 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[25-Jun-2018 16:04:38 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[25-Jun-2018 16:04:38 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[25-Jun-2018 16:04:39 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[25-Jun-2018 16:04:39 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[25-Jun-2018 16:04:40 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[25-Jun-2018 16:04:40 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[25-Jun-2018 16:04:40 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[25-Jun-2018 16:04:40 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[25-Jun-2018 16:04:41 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[25-Jun-2018 16:04:41 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[25-Jun-2018 16:04:41 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[25-Jun-2018 16:04:42 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[25-Jun-2018 16:04:42 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[25-Jun-2018 16:23:37 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[25-Jun-2018 16:23:37 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[25-Jun-2018 16:23:37 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[25-Jun-2018 16:23:38 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[25-Jun-2018 16:23:38 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[25-Jun-2018 16:23:38 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[25-Jun-2018 16:23:39 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[18-Jul-2018 17:28:06 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[18-Jul-2018 17:28:07 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[18-Jul-2018 17:28:07 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[18-Jul-2018 17:28:08 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[18-Jul-2018 17:28:08 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[18-Jul-2018 17:28:08 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[18-Jul-2018 17:28:09 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[18-Jul-2018 17:28:09 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[18-Jul-2018 17:28:10 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[18-Jul-2018 17:28:10 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[18-Jul-2018 17:28:10 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[18-Jul-2018 17:28:11 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[18-Jul-2018 17:28:11 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[18-Jul-2018 17:28:12 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[25-Jul-2018 09:26:45 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[25-Jul-2018 09:26:45 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[25-Jul-2018 09:26:46 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[25-Jul-2018 09:26:46 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[25-Jul-2018 09:26:46 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[25-Jul-2018 09:26:47 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[25-Jul-2018 09:26:47 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[25-Jul-2018 09:26:47 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[25-Jul-2018 09:26:48 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[30-Jul-2018 14:46:57 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[30-Jul-2018 14:46:58 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[30-Jul-2018 14:46:59 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[30-Jul-2018 14:46:59 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[30-Jul-2018 14:47:00 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[30-Jul-2018 14:47:00 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[30-Jul-2018 14:47:01 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[30-Jul-2018 14:47:02 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[30-Jul-2018 14:47:02 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[30-Jul-2018 14:47:03 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[30-Jul-2018 14:47:03 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[30-Jul-2018 14:47:04 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[30-Jul-2018 14:47:04 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[30-Jul-2018 14:47:05 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[30-Jul-2018 14:47:05 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[30-Jul-2018 14:47:05 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[30-Jul-2018 14:47:06 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[31-Jul-2018 16:26:36 America/Sao_Paulo] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/waibrasi/Scripts/valedosapucai/Connections/valedosapucai.php:156) in /home/waibrasi/Scripts/valedosapucai/admini_2016.php on line 2
+[06-Aug-2018 16:07:33 America/Sao_Paulo] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/waibrasi/Scripts/valedosapucai/Connections/valedosapucai.php:156) in /home/waibrasi/Scripts/valedosapucai/admini_2016.php on line 2
+[28-Aug-2018 16:59:14 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[28-Aug-2018 16:59:16 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[28-Aug-2018 16:59:16 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[28-Aug-2018 16:59:18 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[28-Aug-2018 16:59:18 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[29-Aug-2018 11:47:23 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[29-Aug-2018 11:47:23 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[29-Aug-2018 11:47:23 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[29-Aug-2018 11:47:24 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[29-Aug-2018 11:47:24 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[29-Aug-2018 11:47:25 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[29-Aug-2018 11:47:25 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[29-Aug-2018 11:47:26 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[29-Aug-2018 14:08:38 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[29-Aug-2018 14:08:38 America/Sao_Paulo] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 81
+[29-Aug-2018 14:08:38 America/Sao_Paulo] PHP Warning:  imagecreatefromjpeg(): '/home/jhscorre/public_html/imagens/fotos/matrizes/Sem Título.png' is not a valid JPEG file in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 81
+[29-Aug-2018 14:08:38 America/Sao_Paulo] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 82
+[29-Aug-2018 14:08:38 America/Sao_Paulo] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 81
+[29-Aug-2018 14:08:38 America/Sao_Paulo] PHP Warning:  imagecreatefromjpeg(): '/home/jhscorre/public_html/imagens/fotos/matrizes/Sem Título.png' is not a valid JPEG file in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 81
+[29-Aug-2018 14:08:38 America/Sao_Paulo] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 82
+[29-Aug-2018 14:08:38 America/Sao_Paulo] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 81
+[29-Aug-2018 14:08:38 America/Sao_Paulo] PHP Warning:  imagecreatefromjpeg(): '/home/jhscorre/public_html/imagens/fotos/matrizes/Sem Título.png' is not a valid JPEG file in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 81
+[29-Aug-2018 14:08:38 America/Sao_Paulo] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 82
+[29-Aug-2018 14:08:38 America/Sao_Paulo] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 81
+[29-Aug-2018 14:08:38 America/Sao_Paulo] PHP Warning:  imagecreatefromjpeg(): '/home/jhscorre/public_html/imagens/fotos/matrizes/Sem Título.png' is not a valid JPEG file in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 81
+[29-Aug-2018 14:08:38 America/Sao_Paulo] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 82
+[29-Aug-2018 14:08:38 America/Sao_Paulo] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 81
+[29-Aug-2018 14:08:38 America/Sao_Paulo] PHP Warning:  imagecreatefromjpeg(): '/home/jhscorre/public_html/imagens/fotos/matrizes/Sem Título.png' is not a valid JPEG file in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 81
+[29-Aug-2018 14:08:38 America/Sao_Paulo] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 82
+[29-Aug-2018 14:09:17 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[29-Aug-2018 14:09:17 America/Sao_Paulo] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 81
+[29-Aug-2018 14:09:17 America/Sao_Paulo] PHP Warning:  imagecreatefromjpeg(): '/home/jhscorre/public_html/imagens/fotos/matrizes/Sem Título.png' is not a valid JPEG file in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 81
+[29-Aug-2018 14:09:17 America/Sao_Paulo] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 82
+[29-Aug-2018 14:09:17 America/Sao_Paulo] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 81
+[29-Aug-2018 14:09:17 America/Sao_Paulo] PHP Warning:  imagecreatefromjpeg(): '/home/jhscorre/public_html/imagens/fotos/matrizes/Sem Título.png' is not a valid JPEG file in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 81
+[29-Aug-2018 14:09:17 America/Sao_Paulo] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 82
+[29-Aug-2018 14:09:17 America/Sao_Paulo] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 81
+[29-Aug-2018 14:09:17 America/Sao_Paulo] PHP Warning:  imagecreatefromjpeg(): '/home/jhscorre/public_html/imagens/fotos/matrizes/Sem Título.png' is not a valid JPEG file in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 81
+[29-Aug-2018 14:09:17 America/Sao_Paulo] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 82
+[29-Aug-2018 14:09:17 America/Sao_Paulo] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 81
+[29-Aug-2018 14:09:17 America/Sao_Paulo] PHP Warning:  imagecreatefromjpeg(): '/home/jhscorre/public_html/imagens/fotos/matrizes/Sem Título.png' is not a valid JPEG file in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 81
+[29-Aug-2018 14:09:17 America/Sao_Paulo] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 82
+[29-Aug-2018 14:09:17 America/Sao_Paulo] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 81
+[29-Aug-2018 14:09:17 America/Sao_Paulo] PHP Warning:  imagecreatefromjpeg(): '/home/jhscorre/public_html/imagens/fotos/matrizes/Sem Título.png' is not a valid JPEG file in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 81
+[29-Aug-2018 14:09:17 America/Sao_Paulo] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 82
+[29-Aug-2018 14:10:26 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[29-Aug-2018 14:10:26 America/Sao_Paulo] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 81
+[29-Aug-2018 14:10:26 America/Sao_Paulo] PHP Warning:  imagecreatefromjpeg(): '/home/jhscorre/public_html/imagens/fotos/matrizes/Sem Título.png' is not a valid JPEG file in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 81
+[29-Aug-2018 14:10:26 America/Sao_Paulo] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 82
+[29-Aug-2018 14:10:26 America/Sao_Paulo] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 81
+[29-Aug-2018 14:10:26 America/Sao_Paulo] PHP Warning:  imagecreatefromjpeg(): '/home/jhscorre/public_html/imagens/fotos/matrizes/Sem Título.png' is not a valid JPEG file in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 81
+[29-Aug-2018 14:10:26 America/Sao_Paulo] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 82
+[29-Aug-2018 14:10:26 America/Sao_Paulo] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 81
+[29-Aug-2018 14:10:26 America/Sao_Paulo] PHP Warning:  imagecreatefromjpeg(): '/home/jhscorre/public_html/imagens/fotos/matrizes/Sem Título.png' is not a valid JPEG file in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 81
+[29-Aug-2018 14:10:26 America/Sao_Paulo] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 82
+[29-Aug-2018 14:10:26 America/Sao_Paulo] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 81
+[29-Aug-2018 14:10:26 America/Sao_Paulo] PHP Warning:  imagecreatefromjpeg(): '/home/jhscorre/public_html/imagens/fotos/matrizes/Sem Título.png' is not a valid JPEG file in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 81
+[29-Aug-2018 14:10:26 America/Sao_Paulo] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 82
+[29-Aug-2018 14:10:26 America/Sao_Paulo] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 81
+[29-Aug-2018 14:10:26 America/Sao_Paulo] PHP Warning:  imagecreatefromjpeg(): '/home/jhscorre/public_html/imagens/fotos/matrizes/Sem Título.png' is not a valid JPEG file in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 81
+[29-Aug-2018 14:10:26 America/Sao_Paulo] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 82
+[29-Aug-2018 14:12:43 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[31-Aug-2018 11:00:18 America/Sao_Paulo] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/waibrasi/Scripts/valedosapucai/Connections/valedosapucai.php:156) in /home/waibrasi/Scripts/valedosapucai/admini_2016.php on line 2
+[31-Aug-2018 15:50:21 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[31-Aug-2018 15:50:22 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[31-Aug-2018 15:50:23 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[31-Aug-2018 15:50:24 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[31-Aug-2018 15:50:25 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[31-Aug-2018 15:50:25 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[31-Aug-2018 15:50:26 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[31-Aug-2018 15:50:27 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[31-Aug-2018 15:50:27 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[31-Aug-2018 15:50:28 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[31-Aug-2018 15:50:29 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[31-Aug-2018 15:50:30 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[31-Aug-2018 15:50:31 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[31-Aug-2018 15:50:31 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[31-Aug-2018 15:50:32 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[31-Aug-2018 16:35:21 America/Sao_Paulo] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/waibrasi/Scripts/valedosapucai/Connections/valedosapucai.php:156) in /home/waibrasi/Scripts/valedosapucai/admini_2016.php on line 2
+[31-Aug-2018 17:03:30 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[31-Aug-2018 17:03:31 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[31-Aug-2018 17:03:31 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[31-Aug-2018 17:03:32 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[31-Aug-2018 17:03:32 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[31-Aug-2018 17:03:33 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[31-Aug-2018 17:03:34 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[31-Aug-2018 17:03:34 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[03-Sep-2018 15:46:50 America/Sao_Paulo] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/waibrasi/Scripts/valedosapucai/Connections/valedosapucai.php:156) in /home/waibrasi/Scripts/valedosapucai/admini_2016.php on line 2
+[03-Sep-2018 15:57:56 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[03-Sep-2018 15:57:58 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[03-Sep-2018 15:57:58 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[03-Sep-2018 15:58:00 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[03-Sep-2018 15:58:01 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[03-Sep-2018 15:58:02 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[03-Sep-2018 15:58:03 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[03-Sep-2018 15:58:03 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[03-Sep-2018 15:58:04 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[03-Sep-2018 15:58:04 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[03-Sep-2018 15:58:05 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[03-Sep-2018 15:58:06 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[03-Sep-2018 15:58:06 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[03-Sep-2018 15:58:07 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[03-Sep-2018 15:58:08 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[03-Sep-2018 15:58:08 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[03-Sep-2018 15:58:09 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[04-Sep-2018 13:24:33 America/Sao_Paulo] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/waibrasi/Scripts/valedosapucai/Connections/valedosapucai.php:156) in /home/waibrasi/Scripts/valedosapucai/admini_2016.php on line 2
+[04-Sep-2018 13:24:34 America/Sao_Paulo] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/waibrasi/Scripts/valedosapucai/Connections/valedosapucai.php:156) in /home/waibrasi/Scripts/valedosapucai/admini_2016.php on line 2
+[05-Sep-2018 15:22:52 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[05-Sep-2018 15:22:52 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[05-Sep-2018 15:22:53 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[05-Sep-2018 15:22:53 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[18-Sep-2018 13:30:28 America/Sao_Paulo] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/waibrasi/Scripts/valedosapucai/Connections/valedosapucai.php:156) in /home/waibrasi/Scripts/valedosapucai/admini_2016.php on line 2
+[24-Sep-2018 13:27:09 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[24-Sep-2018 13:27:10 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[24-Sep-2018 13:27:11 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[24-Sep-2018 13:27:11 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[24-Sep-2018 13:27:11 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[24-Sep-2018 13:27:12 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[24-Sep-2018 13:27:12 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[24-Sep-2018 13:27:13 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[24-Sep-2018 13:27:13 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[24-Sep-2018 13:27:14 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[24-Sep-2018 13:27:14 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[24-Sep-2018 13:27:14 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[24-Sep-2018 13:27:14 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[24-Sep-2018 13:34:27 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[24-Sep-2018 13:34:28 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[24-Sep-2018 13:37:12 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[24-Sep-2018 13:37:13 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[24-Sep-2018 13:39:17 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[24-Sep-2018 13:39:18 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[24-Sep-2018 13:58:19 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[24-Sep-2018 13:58:20 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[24-Sep-2018 13:58:20 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[24-Sep-2018 13:58:21 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[24-Sep-2018 13:58:21 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[24-Sep-2018 13:58:22 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[24-Sep-2018 13:58:23 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[24-Sep-2018 13:58:23 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[24-Sep-2018 13:58:24 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[25-Sep-2018 13:27:05 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[25-Sep-2018 13:27:05 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[25-Sep-2018 13:27:06 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[25-Sep-2018 13:27:06 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[25-Sep-2018 13:27:06 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[25-Sep-2018 14:45:05 America/Sao_Paulo] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/waibrasi/Scripts/valedosapucai/Connections/valedosapucai.php:156) in /home/waibrasi/Scripts/valedosapucai/admini_2016.php on line 2
+[25-Sep-2018 14:50:46 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[25-Sep-2018 14:50:47 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[25-Sep-2018 14:50:48 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[25-Sep-2018 14:50:49 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[25-Sep-2018 14:50:49 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[15-Oct-2018 16:14:40 America/Sao_Paulo] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/waibrasi/Scripts/valedosapucai/Connections/valedosapucai.php:156) in /home/waibrasi/Scripts/valedosapucai/admini_2016.php on line 2
+[15-Oct-2018 16:44:36 America/Sao_Paulo] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/waibrasi/Scripts/valedosapucai/Connections/valedosapucai.php:156) in /home/waibrasi/Scripts/valedosapucai/admini_2016.php on line 2
+[22-Oct-2018 12:08:49 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[22-Oct-2018 12:08:49 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[22-Oct-2018 12:08:50 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[22-Oct-2018 12:08:50 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[22-Oct-2018 12:08:51 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[22-Oct-2018 12:08:51 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[22-Oct-2018 12:08:51 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[22-Oct-2018 12:08:51 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[22-Oct-2018 12:08:52 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[22-Oct-2018 12:08:52 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[22-Oct-2018 12:08:53 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[22-Oct-2018 12:08:53 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[22-Oct-2018 12:08:53 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[22-Oct-2018 12:08:54 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[22-Oct-2018 12:08:54 America/Sao_Paulo] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/waibrasi/Scripts/valedosapucai/funcaoimg.php on line 55
+[01-Nov-2018 11:07:35 America/Sao_Paulo] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/waibrasi/Scripts/valedosapucai/Connections/valedosapucai.php:165) in /home/waibrasi/Scripts/valedosapucai/admini_2016.php on line 2
